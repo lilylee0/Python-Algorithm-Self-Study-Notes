@@ -5,8 +5,8 @@
 
 ## Contents
 
-### * CodeUp Basic:100 (기초 100제)
-   ##### https://codeup.kr/userinfo.php?user=dahyun282
+### | CodeUp Basic:100 (기초 100제)
+(https://codeup.kr/userinfo.php?user=dahyun282)
    
    
-### * Greedy
+### | Greedy
